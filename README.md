@@ -9,3 +9,6 @@ test text
 ## Purpose
 
 Sample website with plenty of files for demos.
+
+### Copyright
+2022
