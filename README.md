@@ -14,4 +14,4 @@ Random Text
 Sample website with plenty of files for demos.
 
 ### Copyright
-2022
+2022. All rights reserved
